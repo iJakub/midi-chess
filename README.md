@@ -1,4 +1,4 @@
-![DemoIMG]()
+![DemoIMG](demo/demo.png)
 
 # midi-chess
 
