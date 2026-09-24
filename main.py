@@ -1316,7 +1316,9 @@ def animateMove(move, screen, board, clock):
         p.display.flip()
         clock.tick(60)
 
+import multiprocessing
 
 #Program Entry Point
 if __name__ == "__main__":
+    multiprocessing.freeze_support()
     main()
