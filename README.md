@@ -12,7 +12,7 @@ Dragging pieces around with a mouse is overrated. Just play e4 in C major.
 Forget the cursor - hit keys and hear how your chess openings actually sound in real time.
 
 # Demonstration
-![DemoGIF]()
+![DemoGIF](demo/demo.gif)
 
 # Executing
 
